@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MvvmClean</string>
+
+    <string name="error_message">Something went wrong. Please try again later</string>
+    <string name="connection_error_message">Please check your connection with the internet</string>
+    <string name="your_session_expired">Your session expired!</string>
+</resources>
